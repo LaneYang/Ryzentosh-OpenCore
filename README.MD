@@ -32,7 +32,7 @@
  - Note: for SSDT, I recommand you to make your own, but for free to use mine in the repo
 ## What's working:
  - **Sleep/Wake works perfectly**(hibernatemode 3 required)
- - **All usb ports
+ - **All usb ports**
  - All audio jacks
  - Wired network
  - All iServices
