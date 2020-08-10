@@ -5,7 +5,7 @@
 | ------------- | --------- |
 | CPU | AMD Ryzen 7 2700x |
 | Motherboard | ASUS B350i Strix ITX |
-| RAM | G.SKILL TridentZ RGB |
+| RAM | G.SKILL TridentZ RGB 16G 3200hz|
 | Audio | ALC-1220 |
 | GPU | Sapphire rx580 8G |
 | NVME | ADATA XPG SX8200 Pro 1TB + ADATA XPG Gammix S11 Pro 1TB |
