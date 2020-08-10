@@ -19,7 +19,7 @@
 ## Drivers & Kexts (OC 0.6.0)
  - [[Bootloader] OpenCore](https://github.com/acidanthera/OpenCorePkg)
  - [[Resources] Picker GUI](https://github.com/acidanthera/OcBinaryData/tree/master/Resources)
- - [[Patch] AMD_Vanilla](https://github.com/AMD-OSX/AMD_Vanilla
+ - [[Patch] AMD_Vanilla](https://github.com/AMD-OSX/AMD_Vanilla)
  - [[Driver] OpenRuntime](https://github.com/acidanthera/OpenCorePkg)
  - [[Driver] OpenCanopy](https://github.com/acidanthera/OpenCorePkg)
  - [[Driver] HFSPlus](https://github.com/acidanthera/OcBinaryData/blob/master/Drivers/HfsPlus.efi)
