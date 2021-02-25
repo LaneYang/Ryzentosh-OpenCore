@@ -29,7 +29,7 @@
  - [[Kext] AppleALC](https://github.com/acidanthera/AppleALC)
  - [[Kext] NVMEfix](https://github.com/acidanthera/NVMeFix)
  - [[Kext] smalltreeintel82576](https://github.com/khronokernel/SmallTree-I211-AT-patch/releases)
- - Note: for SSDT, I recommand you to make your own, but for free to use mine in the repo
+ - Note: for SSDT, I highly recommand you to make your own, but for free to use mine in the repo
 ## What's working:
  - **Sleep/Wake works perfectly**(hibernatemode 3 required)
  - **All usb ports
