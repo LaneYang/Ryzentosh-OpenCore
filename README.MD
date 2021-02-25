@@ -12,11 +12,11 @@
 
 ## OS Version
 
-**OS version**: 10.15.6 Catalina
+**OS version**: 11.2.1 Big Sur
 
-**OpenCore version**: 0.6.0  
+**OpenCore version**: 0.6.6
 
-## Drivers & Kexts (OC 0.6.0)
+## Drivers & Kexts (OC 0.6.6)
  - [[Bootloader] OpenCore](https://github.com/acidanthera/OpenCorePkg)
  - [[Resources] Picker GUI](https://github.com/acidanthera/OcBinaryData/tree/master/Resources)
  - [[Patch] AMD_Vanilla](https://github.com/AMD-OSX/AMD_Vanilla)
@@ -34,12 +34,12 @@
  - **Sleep/Wake works perfectly**(hibernatemode 3 required)
  - **All usb ports**
  - All audio jacks
- - Wired network
+ - ethernet and wifi 
  - All iServices
  - Hardware Acceleration
 
 ## Things that are not working：
- - Did not fix the wifi driver(with the mobo) since I dont use wifi on this hackintosh
+ - sidecar
 
 ## GUIDE
   1. Use this detailed guide as ref if you wanna make your own config [**this guide**](https://dortania.github.io/OpenCore-Install-Guide/)
